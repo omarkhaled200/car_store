@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225816305953",
+    "project_id": "car-store-9f1c0",
+    "storage_bucket": "car-store-9f1c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225816305953:android:f2928da12f02e35b471e60",
+        "android_client_info": {
+          "package_name": "com.example.carstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsoHBTp6sPkj1ognoix_eWRaIi1AJM_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
